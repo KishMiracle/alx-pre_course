@@ -1,1 +1,1 @@
-"git pull" command is used to download changes to local branch git pull is "git fetch" folloed by "git merge"
+git pull https://github.com/KishMiracle/alx-pre_course.git
