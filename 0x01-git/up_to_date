@@ -1,1 +1,1 @@
-git fetch --all
+git pull https://github.com/KishMiracle/alx-pre_course.git
